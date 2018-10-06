@@ -22,11 +22,11 @@
     font-style: normal;
 }
 
-@font-face {font-family: 'Bender-Bold';src: url('../fonts/Bender-all/webfonts/37BAF8_3_0.eot');
-  src: url('../fonts/Bender-all/webfonts/37BAF8_3_0.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/Bender-all/webfonts/37BAF8_3_0.woff2') format('woff2'),
-  url('../fonts/Bender-all/webfonts/37BAF8_3_0.woff') format('woff'),
-  url('../fonts/Bender-all/webfonts/37BAF8_3_0.ttf') format('truetype');}
+@font-face {font-family: 'Bender-Bold';src: url('../fonts/bender-all/webfonts/37BAF8_3_0.eot');
+  src: url('../fonts/bender-all/webfonts/37BAF8_3_0.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/bender-all/webfonts/37BAF8_3_0.woff2') format('woff2'),
+  url('../fonts/bender-all/webfonts/37BAF8_3_0.woff') format('woff'),
+  url('../fonts/bender-all/webfonts/37BAF8_3_0.ttf') format('truetype');}
 * {
   box-sizing: border-box;
   &:active, &:hover, &:focus {
