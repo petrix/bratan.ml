@@ -91,6 +91,7 @@ body > div {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background: url('../img/bratan_bg1.jpg') no-repeat 100% 100%;
 }
 
 
